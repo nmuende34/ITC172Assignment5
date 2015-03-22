@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e2f40a4a-e7df-460a-8571-8ff5b5a91482" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55977/VenueAddShowService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="VenueAddShowService.xsd" MetadataType="Schema" ID="5e659b8f-1232-49b9-b367-1ef61ef50436" SourceId="1" SourceUrl="http://localhost:55977/VenueAddShowService.svc?xsd=xsd2" />
+    <MetadataFile FileName="VenueAddShowService.wsdl" MetadataType="Wsdl" ID="24e2f47f-dcab-4da7-a416-db9a8c6edf62" SourceId="1" SourceUrl="http://localhost:55977/VenueAddShowService.svc?wsdl" />
+    <MetadataFile FileName="VenueAddShowService.disco" MetadataType="Disco" ID="0c79c480-6ae4-4964-ae71-dab18cf2de48" SourceId="1" SourceUrl="http://localhost:55977/VenueAddShowService.svc?disco" />
+    <MetadataFile FileName="VenueAddShowService1.xsd" MetadataType="Schema" ID="aeae205e-9afc-4ab5-99b1-3a820314f3cd" SourceId="1" SourceUrl="http://localhost:55977/VenueAddShowService.svc?xsd=xsd0" />
+    <MetadataFile FileName="VenueAddShowService2.xsd" MetadataType="Schema" ID="bab878e1-158c-4aca-81db-ea145ebbc014" SourceId="1" SourceUrl="http://localhost:55977/VenueAddShowService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

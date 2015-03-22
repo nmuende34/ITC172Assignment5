@@ -1,0 +1,74 @@
+﻿body {
+}
+#form1 {
+    background-color: white;
+}
+.login, #TableArtist, #Table1 {
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+}
+#Table1, #TableArtist {
+    border: none !important;
+}
+h1 {
+    color: navy;
+    margin-left: 30%;
+}
+#Table1, #TableArtist, .login {
+    margin-left: 30%;
+}
+#lbLogin, #LinkButton2, form p, #btnSave, #styleArtist, .login2{
+    margin-left: 30%;
+}
+#LinkButton1 {
+    margin-left: 15%;
+}
+#LinkButton3 {
+    margin-left: 5%;
+}
+.section{
+    font-weight: bold;
+    margin-top: 15px;
+    width: 309%;
+    font-size: large;
+}
+#goodbye {
+    margin-left: 10%;
+}
+h2{
+    color: navy;
+    margin-left: 30%;
+}
+#lblLogin3 {
+    margin-left: 40%;
+}
+.auto-style1 {
+    width: 93px;
+}
+.textbox {
+    margin-right: 2px;
+}
+.auto-style2 {
+    width: 218px;
+}
+td {
+    font-weight: bold;
+    text-align:right;
+    padding-right: 5px;
+}
+#btnAddArtist {
+    margin-left: 5px;
+}
+.txtbox {
+    height: 100%;
+    padding-right:0px !important;
+    width: 100%;
+}
+#Calendar1 {
+    background-color: white;
+}
+.error {
+    color: red;
+    text-align: left !important;
+}
